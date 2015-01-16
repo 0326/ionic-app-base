@@ -12,6 +12,7 @@ For example, to start a new Ionic project with the default tabs interface, make 
 ```bash
 $ npm install -g ionic
 ```
+## test in nitrous.io
 
 Then run:
 
